@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="RemoteMappingsManager">
+    <list>
+      <list>
+        <remote-mappings server-id="python@sftp://wangwenbin@127.0.0.1:6001/home/wangwenbin/anaconda3/bin/python" />
+        <remote-mappings server-id="python@sftp://wangwenbin@127.0.0.1:6001/home/wangwenbin/anaconda3/envs/py3.7-pt1.1.0-mmlab/bin/python" />
+      </list>
+    </list>
+  </component>
+</project>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" autoUpload="Always" serverName="wangwenbin@127.0.0.1:6001">
+    <serverData>
+      <paths name="wangwenbin@127.0.0.1:6001">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/home/wangwenbin/Method/scene_graph/HRTree-Scene-Graph-Generation-version2" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="wangwenbin@127.0.0.1:6001 (1)">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/home/wangwenbin/Method/scene_graph/HRTree-Scene-Graph-Generation-version2" local="$PROJECT_DIR$" />
+          </mappings>
+          <excludedPaths>
+            <excludedPath path="/home/wangwenbin/Method/scene_graph/HRTree-Scene-Graph-Generation-version2/vg200_kr_cap_gt4VC_allTestIM.pkl" />
+            <excludedPath path="/home/wangwenbin/Method/scene_graph/HRTree-Scene-Graph-Generation-version2/hrtree-sgcls-relrank_stopgrad_mulsal_marginloss-vg200_kr" />
+            <excludedPath path="/home/wangwenbin/Method/scene_graph/HRTree-Scene-Graph-Generation-version2/hrtree-predcls-relrank_stopgrad_mulsal_marginloss-vg200_kr" />
+            <excludedPath path="/home/wangwenbin/Method/scene_graph/HRTree-Scene-Graph-Generation-version2/vg200krTestImgs" />
+            <excludedPath path="/home/wangwenbin/Method/scene_graph/HRTree-Scene-Graph-Generation-version2/models/vg200KrTestGts" />
+            <excludedPath path="/home/wangwenbin/Method/scene_graph/HRTree-Scene-Graph-Generation-version2/data" />
+            <excludedPath path="/home/wangwenbin/Method/scene_graph/HRTree-Scene-Graph-Generation-version2/checkpoints" />
+            <excludedPath path="/home/wangwenbin/Method/scene_graph/HRTree-Scene-Graph-Generation-version2/coco_caption" />
+          </excludedPaths>
+        </serverdata>
+      </paths>
+    </serverData>
+    <option name="myAutoUpload" value="ALWAYS" />
+  </component>
+</project>
