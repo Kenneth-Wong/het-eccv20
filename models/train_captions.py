@@ -267,7 +267,7 @@ def val_epoch():
         test_size = conf.test_size
     else:
         max_val_b = -1
-        test_size = len(test)
+        test_size = len(val)
     dump_img_flag = False
     if conf.eval_dump:
         image_dir = os.path.join(conf.save_dir+'_images')
@@ -284,7 +284,7 @@ def val_epoch():
     test_coco_ids = []
     # use test as val
     start = time.time()
-    for val_b, batch in enumerate(test_loader):
+    for val_b, batch in enumerate(val_loader):
         if max_val_b > 0 and val_b >= max_val_b:
             break
         result = detector[batch]
